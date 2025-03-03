@@ -5,7 +5,7 @@ This repository contains the privacy policy for LUCA (Laboratory Utility and Cal
 
 ## About
 
-The privacy policy is hosted using GitHub Pages and can be accessed at `https://[your-github-username].github.io/luca-privacy/`.
+The privacy policy is hosted using GitHub Pages and can be accessed at `https://pythiainteractive.github.io/luca-privacy/`.
 
 ## Local Development
 
